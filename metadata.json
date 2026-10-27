@@ -1,0 +1,6 @@
+{
+  "name": "AetherWeb3 - Smart Contract & Blockchain Suite",
+  "description": "Full-stack Web3 platform connecting React front-end with Node.js Web3.js backend, multi-chain wallet interaction, DeFi staking vaults, and live smart contracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
